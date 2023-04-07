@@ -34,6 +34,7 @@ The entire project follows the below folder structure:
         ├── IPL_Matches_2008_2020.csv       # Complete Dataset of all the IPL matches from every year starting from 2008 to 2020           
         ├── IPL Ball-by-Ball 2008-2020.csv  # Complete Dataset of all the IPL matches detailing ball by ball analysis starting from 2008 to 2020  
     ├── sanitization.pyb                    # Notebook covering Data import and sanitization
+    ├── maximum_matches_played.pyb          # Notebook indicating the maximum number of matches played by each team from 2008 to 2020  
     └── README.md
 
 
